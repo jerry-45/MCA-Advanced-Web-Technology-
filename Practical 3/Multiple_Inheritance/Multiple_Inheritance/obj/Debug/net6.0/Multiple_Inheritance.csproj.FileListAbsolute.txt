@@ -1,0 +1,15 @@
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net6.0\Multiple_Inheritance.exe
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net6.0\Multiple_Inheritance.deps.json
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net6.0\Multiple_Inheritance.runtimeconfig.json
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net6.0\Multiple_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\bin\Debug\net6.0\Multiple_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\refint\Multiple_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\Multiple_Inheritance.genruntimeconfig.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multiple_Inheritance\Multiple_Inheritance\obj\Debug\net6.0\ref\Multiple_Inheritance.dll

@@ -1,0 +1,15 @@
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\bin\Debug\net6.0\Single_Inheritance.exe
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\bin\Debug\net6.0\Single_Inheritance.deps.json
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\bin\Debug\net6.0\Single_Inheritance.runtimeconfig.json
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\bin\Debug\net6.0\Single_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\bin\Debug\net6.0\Single_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\refint\Single_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\Single_Inheritance.genruntimeconfig.cache
+D:\Projects\MCA-Advanced-Web-Technology\Single_Inheritance\Single_Inheritance\obj\Debug\net6.0\ref\Single_Inheritance.dll

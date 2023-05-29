@@ -1,0 +1,15 @@
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\bin\Debug\net6.0\Multilevel_Inheritance.exe
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\bin\Debug\net6.0\Multilevel_Inheritance.deps.json
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\bin\Debug\net6.0\Multilevel_Inheritance.runtimeconfig.json
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\bin\Debug\net6.0\Multilevel_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\bin\Debug\net6.0\Multilevel_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\refint\Multilevel_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\Multilevel_Inheritance.genruntimeconfig.cache
+D:\Projects\MCA-Advanced-Web-Technology\Multilevel_Inheritance\Multilevel_Inheritance\obj\Debug\net6.0\ref\Multilevel_Inheritance.dll

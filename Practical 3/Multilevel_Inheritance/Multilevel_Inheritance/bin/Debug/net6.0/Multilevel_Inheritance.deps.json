@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Multilevel_Inheritance/1.0.0": {
+        "runtime": {
+          "Multilevel_Inheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multilevel_Inheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

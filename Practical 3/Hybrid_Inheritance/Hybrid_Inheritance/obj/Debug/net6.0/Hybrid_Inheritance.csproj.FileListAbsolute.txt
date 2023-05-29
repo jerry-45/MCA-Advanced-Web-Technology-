@@ -1,0 +1,15 @@
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\bin\Debug\net6.0\Hybrid_Inheritance.exe
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\bin\Debug\net6.0\Hybrid_Inheritance.deps.json
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\bin\Debug\net6.0\Hybrid_Inheritance.runtimeconfig.json
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\bin\Debug\net6.0\Hybrid_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\bin\Debug\net6.0\Hybrid_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.csproj.AssemblyReference.cache
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.AssemblyInfoInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.AssemblyInfo.cs
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.csproj.CoreCompileInputs.cache
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\refint\Hybrid_Inheritance.dll
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.pdb
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\Hybrid_Inheritance.genruntimeconfig.cache
+D:\Projects\MCA-Advanced-Web-Technology\Hybrid_Inheritance\Hybrid_Inheritance\obj\Debug\net6.0\ref\Hybrid_Inheritance.dll
