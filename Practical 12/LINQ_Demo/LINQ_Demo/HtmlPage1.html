@@ -1,0 +1,111 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LINQ Example</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>LINQ Example</h1>
+
+    <table>
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Product A</td>
+            <td>Category 1</td>
+            <td>$10.00</td>
+        </tr>
+        <tr>
+            <td>Product B</td>
+            <td>Category 2</td>
+            <td>$15.00</td>
+        </tr>
+        <tr>
+            <td>Product C</td>
+            <td>Category 1</td>
+            <td>$20.00</td>
+        </tr>
+        <tr>
+            <td>Product D</td>
+            <td>Category 3</td>
+            <td>$12.50</td>
+        </tr>
+        <tr>
+            <td>Product E</td>
+            <td>Category 1</td>
+            <td>$16.5</td>
+        </tr>
+    </table>
+
+    <h2>Filtered Products</h2>
+
+    <table id="filteredTable">
+        <tr>
+            <th>Product Name</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+    </table>
+
+    <script>
+    // LINQ query to filter products by category
+    const products = [
+        { name: 'Product A', category: 'Category 1', price: 10.0 },
+        { name: 'Product B', category: 'Category 2', price: 15.0 },
+        { name: 'Product C', category: 'Category 1', price: 20.0 },
+        { name: 'Product D', category: 'Category 3', price: 12.5 },
+        { name: 'Product E', category: 'Category 1', price: 16.5 }
+    ];
+
+    const filteredProducts = products.filter(product => product.category === 'Category 1');
+
+    const filteredTable = document.getElementById('filteredTable');
+
+    filteredProducts.forEach(product => {
+      const row = document.createElement('tr');
+      const nameCell = document.createElement('td');
+      const categoryCell = document.createElement('td');
+      const priceCell = document.createElement('td');
+
+      nameCell.textContent = product.name;
+      categoryCell.textContent = product.category;
+      priceCell.textContent = `$${product.price.toFixed(2)}`;
+
+      row.appendChild(nameCell);
+      row.appendChild(categoryCell);
+      row.appendChild(priceCell);
+
+      filteredTable.appendChild(row);
+    });
+    </script>
+</body>
+</html>
